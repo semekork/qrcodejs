@@ -40,7 +40,8 @@ IE6~10, Chrome, Firefox, Safari, Opera, Mobile Safari, Android, Windows Mobile, 
 MIT License
 
 ## Contact
-twitter @davidshimjs
+(https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/davidshimjs)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/davidshimjs/qrcodejs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+ 
 
